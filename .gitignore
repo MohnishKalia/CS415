@@ -1,3 +1,6 @@
+# User-defined
+*.log
+
 # Visual Studio 2015 user specific files
 .vs/
 
