@@ -1,0 +1,4 @@
+[submodule "CS415_MP2"]
+	path = CS415_MP2
+	url = https://github.com/MohnishKalia/CS415_MP2.git
+	branch = master
